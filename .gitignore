@@ -1,0 +1,10 @@
+# Ignore files without file extension
+*
+!/**/
+!*.*
+# Generated tag files
+tags
+# vim cache file
+.viminfo
+# C++ object file
+*.o
